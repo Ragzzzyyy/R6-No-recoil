@@ -2,8 +2,7 @@
 
 # Pass-SoggaSupport
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/e1e27ca9-5e47-4f35-997f-0e5be02dfefd)
 
 1. we are going open source
 
