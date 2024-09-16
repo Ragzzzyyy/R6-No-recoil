@@ -1,7 +1,5 @@
 # R6-No-recoil
 
-# Pass-SoggaSupport
-
 ![image](https://github.com/user-attachments/assets/e1e27ca9-5e47-4f35-997f-0e5be02dfefd)
 
 https://www.youtube.com/watch?v=j_SyNK7DsiE Tutorial
